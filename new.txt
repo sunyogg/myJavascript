@@ -1,2 +1,10 @@
 - template literal `Hello my name is ${firstName}`
 - coercion
+- Anonymous function
+- In javascript you can invoke function before the definition of the funtion.
+- Types of functions in javascript:
+    Declaration Function (Normal functions)
+    Expression Function (Functions stored in variables)
+    Arrow Function (Simple and fast one liner function)
+
+- Using this keyword in dictionary/ object which we didn't do in python.
